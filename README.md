@@ -1,2 +1,1 @@
-# Projects
-Projeto: Banking System
+# Projetos
